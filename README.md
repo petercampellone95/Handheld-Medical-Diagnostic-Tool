@@ -3,14 +3,14 @@ The Handheld Medical Diagnostic Tool or HMDT for short was a device created as t
 
 Some of the features of the HMDT are as follows:
 
--2000mAh LiPo Battery
--USB Charging
--Simple 16x2 Character LCD for measurement readout with tactile switch controlled menu-system 
--ATMEGA 328P 8-Bit AVR microcontroller
--MLX90614 IR Temperature Sensor (Front-Mounted)
--Clip-on IR Pulse Sensor
--Battery life readout and low battery warning message
--Ergonomic 3D printed case with similar dimensions to modern smartphones
+- 2000mAh LiPo Battery
+- USB Charging
+- Simple 16x2 Character LCD for measurement readout with tactile switch controlled menu-system 
+- ATMEGA 328P 8-Bit AVR microcontroller
+- MLX90614 IR Temperature Sensor (Front-Mounted)
+- Clip-on IR Pulse Sensor
+- Battery life readout and low battery warning message
+- Ergonomic 3D printed case with similar dimensions to modern smartphones
 
 *More technical details can be found in the final project report and other files within this repository*
 
